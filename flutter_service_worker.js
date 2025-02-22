@@ -14,7 +14,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "1dddc821c6a568335bb4b116ec61f2fd
 "assets/assets/images/web.png": "cdf95b427f17016536cb57f5b727ddde",
 "assets/assets/images/work1.jpg": "58bbc11e54a3643754df21fd0d1e59a8",
 "assets/assets/images/work2.jpg": "8ac2eef16dd7a05a53702e965891c948",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"vinaykumarsbk.github.io/assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "98ea0b59d4f956afca0263c03a9438b9",
 "assets/NOTICES": "eb936871b0315f13f0d2319c98b9f5ef",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
